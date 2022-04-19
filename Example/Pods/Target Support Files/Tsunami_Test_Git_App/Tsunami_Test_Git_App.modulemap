@@ -1,0 +1,6 @@
+framework module Tsunami_Test_Git_App {
+  umbrella header "Tsunami_Test_Git_App-umbrella.h"
+
+  export *
+  module * { export * }
+}

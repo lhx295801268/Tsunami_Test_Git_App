@@ -1,0 +1,22 @@
+{
+  "name": "Tsunami_Test_Git_App",
+  "version": "0.1.0",
+  "summary": "A short description of Tsunami_Test_Git_App.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lhx295801268/Tsunami_Test_Git_App",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lhx295801268": "769681799@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lhx295801268/Tsunami_Test_Git_App.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Tsunami_Test_Git_App/Classes/**/*"
+}
